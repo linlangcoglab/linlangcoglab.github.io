@@ -24,6 +24,18 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
+                {% if member.social.linkedin %}
+                <p class="card-text">
+                    <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    {% if member.social.website %}
+                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                </p>
+                {% elsif member.social.website %}
+                <p class="card-text">
+                    <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                </p>
+                {% endif %}
             </div>
         </div>
     </div>
@@ -46,6 +58,18 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
+                {% if member.social.linkedin %}
+                <p class="card-text">
+                    <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    {% if member.social.website %}
+                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                </p>
+                {% elsif member.social.website %}
+                <p class="card-text">
+                    <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                </p>
+                {% endif %}
             </div>
         </div>
     </div>
@@ -68,6 +92,18 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
+                {% if member.social.linkedin %}
+                <p class="card-text">
+                    <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+                    {% if member.social.website %}
+                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                </p>
+                {% elsif member.social.website %}
+                <p class="card-text">
+                    <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                </p>
+                {% endif %}
             </div>
         </div>
     </div>
