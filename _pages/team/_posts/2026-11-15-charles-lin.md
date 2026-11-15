@@ -6,6 +6,7 @@ image: researcher.png
 role: Lab Director and Professor of Chinese Linguistics and Cognitive Science
 permalink: 'team/charleslin'
 social:
+  linkedin: "https://www.linkedin.com/in/charles-lin-a70219243/"
   website: "https://sites.google.com/view/chienjerlin/home"
 education:
   - "Ph.D. in Linguistics and Anthropology, University of Arizona"
