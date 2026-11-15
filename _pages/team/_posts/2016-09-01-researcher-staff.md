@@ -1,10 +1,10 @@
 ---
 layout: member
-category: staff
-title: Researcher Name
+category: director
+title: Charles Lin
 image: researcher.png
-role: Lab Director
-permalink: 'team/researcher-name'
+role: Lab Director and Professor of Chinese Linguistics and Cognitive Science
+permalink: 'team/charleslin'
 social:
     twitter: https://twitter.com/
     linkedin: https://www.linkedin.com/
