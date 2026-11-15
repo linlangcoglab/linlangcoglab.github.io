@@ -1,6 +1,6 @@
 ---
 layout: member
-category: staff
+category: director
 title: Charles Lin
 image: researcher.png
 role: Lab Director and Professor of Chinese Linguistics and Cognitive Science
