@@ -6,7 +6,7 @@ image: Irene.jpg
 role: PhD Student
 permalink: 'team/irene-huang'
 social:
-
+    orcid: https://orcid.org/0009-0008-3732-6705
 education:
  - Ph.D. Student in Chinese Linguistics, Indiana University
 ---
