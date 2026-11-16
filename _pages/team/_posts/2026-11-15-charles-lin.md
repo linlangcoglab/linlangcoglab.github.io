@@ -2,7 +2,7 @@
 layout: member
 category: director
 title: Charles Lin
-image: researcher.png
+image: Lin.png
 role: Lab Director and Professor of Chinese Linguistics and Cognitive Science
 permalink: 'team/charleslin'
 social:
