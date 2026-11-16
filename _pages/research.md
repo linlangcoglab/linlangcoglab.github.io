@@ -8,8 +8,42 @@ permalink: /research/
 
 # Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eu turpis egestas pretium aenean. Luctus venenatis lectus magna fringilla urna porttitor. Lorem ipsum dolor sit amet. Pellentesque massa placerat duis ultricies. Commodo viverra maecenas accumsan lacus vel. Mattis molestie a iaculis at erat pellentesque adipiscing commodo. Pellentesque sit amet porttitor eget dolor morbi non. Lorem dolor sed viverra ipsum nunc aliquet bibendum enim. Id aliquet risus feugiat in. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Sapien pellentesque habitant morbi tristique. Sapien eget mi proin sed libero enim. Viverra vitae congue eu consequat ac felis donec.
+We conduct research on various aspects of human cognition related to **language processing**. In particular, our lab is interested in the interrelation between grammar and processing. We have been running experiments on processing at various linguistic levels (e.g., speech, words, sentences and discourse) and the relation between language and general cognitive processes. Our current research projects include relative-clause processing & translations in East Asian languages and English, processing issues in linguistic theories in terms of grammaticality and acceptability judgments, processing syntactic ambiguity, syntactic adaptation, on-line composition of event structures, Mandarin tone sandhi, the conceptualization of nouns in terms of mass/count distinction and nominal classification, negation and acquisition of counterfactuality, and the perception of tones and vowels in Mandarin. **If you are interested in becoming an intern, a research assistant, a research affiliate or conducting independent study with Prof. Lin, you are welcome to send an email to Professor Charles Lin.**
 
-Mauris vitae ultricies leo integer malesuada. Vulputate ut pharetra sit amet aliquam id diam maecenas. Posuere sollicitudin aliquam ultrices sagittis orci a scelerisque purus. Et tortor at risus viverra adipiscing at in. Urna nunc id cursus metus aliquam eleifend. Massa tincidunt dui ut ornare lectus. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi cras. Enim diam vulputate ut pharetra sit. Facilisi cras fermentum odio eu feugiat pretium. Commodo elit at imperdiet dui accumsan sit amet nulla. Volutpat maecenas volutpat blandit aliquam etiam erat velit scelerisque. Vivamus at augue eget arcu dictum varius duis. Faucibus pulvinar elementum integer enim neque volutpat. Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
+---
 
-Cras adipiscing enim eu turpis. Imperdiet massa tincidunt nunc pulvinar sapien et ligula ullamcorper. Sed lectus vestibulum mattis ullamcorper velit. Ut faucibus pulvinar elementum integer. Mattis nunc sed blandit libero volutpat sed cras ornare. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus. Risus nullam eget felis eget nunc lobortis mattis. In tellus integer feugiat scelerisque varius morbi enim. Eget nunc lobortis mattis aliquam faucibus purus in. Ut pharetra sit amet aliquam id diam maecenas ultricies mi. Augue neque gravida in fermentum et sollicitudin ac orci. Id donec ultrices tincidunt arcu non. Pharetra et ultrices neque ornare aenean euismod. Purus faucibus ornare suspendisse sed. Nibh tellus molestie nunc non blandit massa enim. Non diam phasellus vestibulum lorem sed risus. Vel eros donec ac odio tempor orci dapibus ultrices in. Libero id faucibus nisl tincidunt.
+# Research Projects
+
+．Issue of how the phonological systems of the first language affects the processing of as second language(e.g., how the phonotactics of Korean affects their perception of English non-words)
+
+．Cross-linguistic corpus analysis of translated Chinese text
+
+．Processing of head-final relative clauses (e.g., Chinese, Korean)
+
+．Relative clause processing within context
+
+．Processing restrictive and non-restrictive relatives in Chinese 
+
+．Processing tones and tone sandhi
+
+．Issue of phonological awareness and literacy (e.g., the role of Pin-Yin and Zhu-Yin in Mandarin syllable perception)
+
+．Processing arguments and adjuncts in sentences
+
+．Mass/Count cognition at the syntax-semantics interface 
+
+．Perception of vowels and tones in Mandarin Chinese
+
+．Resolution of lexical & syntactic ambiguity in sentences 
+
+．Syntactic adaptation & structural priming
+
+．Processing quantificational scopes at LF
+
+．Processing negation and acquisition of counterfactuality
+
+---
+
+# Equipment
+
+LaCL at Indiana University Bloomington is located at GA2036 and GA2049, which we use as a meeting room and the space for running behavioral and corpus studies. We have a portable eye-tracker in GA2049 where we also run behavioral studies on SR Experiment Builder, E-Prime 3.0, and PsychoPy. We run our EEG studies on a 32-channel EEG system manufactured by BrainVision (the actiCHamp system) in the Psychology Building. Prof. Lin also collaborates with various other language-related faculty on campus; therefore, an array of other psycholinguistic methodology is available.
