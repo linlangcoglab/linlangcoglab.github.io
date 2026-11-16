@@ -6,7 +6,7 @@ image: Yutong.jpg
 role: PhD Student
 permalink: 'team/yutong-feng'
 social:
-    linkedin: https://www.linkedin.com/in/fengyutong
+    linkedin: https://www.linkedin.com/in/yutongf
 education:
  - Ph.D. Student in Chinese Linguistics, Indiana University
 ---
