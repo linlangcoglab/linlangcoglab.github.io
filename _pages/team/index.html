@@ -24,16 +24,19 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
-                {% if member.social.linkedin %}
+                {% if member.social.linkedin or member.social.website or member.social.orcid %}
                 <p class="card-text">
+                    {% if member.social.linkedin %}
                     <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                    {% if member.social.website %}
-                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
                     {% endif %}
-                </p>
-                {% elsif member.social.website %}
-                <p class="card-text">
+                    {% if member.social.website %}
+                    {% if member.social.linkedin %} | {% endif %}
                     <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                    {% if member.social.orcid %}
+                    {% if member.social.linkedin or member.social.website %} | {% endif %}
+                    <a href="{{ member.social.orcid }}" target="_blank" rel="noopener noreferrer">ORCID</a>
+                    {% endif %}
                 </p>
                 {% endif %}
             </div>
@@ -58,16 +61,19 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
-                {% if member.social.linkedin %}
+                {% if member.social.linkedin or member.social.website or member.social.orcid %}
                 <p class="card-text">
+                    {% if member.social.linkedin %}
                     <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                    {% if member.social.website %}
-                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
                     {% endif %}
-                </p>
-                {% elsif member.social.website %}
-                <p class="card-text">
+                    {% if member.social.website %}
+                    {% if member.social.linkedin %} | {% endif %}
                     <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                    {% if member.social.orcid %}
+                    {% if member.social.linkedin or member.social.website %} | {% endif %}
+                    <a href="{{ member.social.orcid }}" target="_blank" rel="noopener noreferrer">ORCID</a>
+                    {% endif %}
                 </p>
                 {% endif %}
             </div>
@@ -92,16 +98,19 @@ permalink: /team/
             <div class="card-body">
                 <h4 class="card-title">{{ member.title }}</h4>
                 <p class="card-text">{{ member.role }}</p>
-                {% if member.social.linkedin %}
+                {% if member.social.linkedin or member.social.website or member.social.orcid %}
                 <p class="card-text">
+                    {% if member.social.linkedin %}
                     <a href="{{ member.social.linkedin }}" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-                    {% if member.social.website %}
-                    | <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
                     {% endif %}
-                </p>
-                {% elsif member.social.website %}
-                <p class="card-text">
+                    {% if member.social.website %}
+                    {% if member.social.linkedin %} | {% endif %}
                     <a href="{{ member.social.website }}" target="_blank" rel="noopener noreferrer">Personal site</a>
+                    {% endif %}
+                    {% if member.social.orcid %}
+                    {% if member.social.linkedin or member.social.website %} | {% endif %}
+                    <a href="{{ member.social.orcid }}" target="_blank" rel="noopener noreferrer">ORCID</a>
+                    {% endif %}
                 </p>
                 {% endif %}
             </div>
