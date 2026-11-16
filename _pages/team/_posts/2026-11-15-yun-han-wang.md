@@ -6,7 +6,8 @@ image: Yun-han.jpeg
 role: PhD Student
 permalink: 'team/yun-han-wang'
 social:
-
+  linkedin: "https://www.linkedin.com/in/yun-han-w-20187512a/"
+  website: "https://una87527.github.io/yun.han.wang/"
 education:
  - PhD Student in Chinese Linguistics, Indiana University
 ---
