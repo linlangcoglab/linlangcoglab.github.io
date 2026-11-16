@@ -1,20 +1,14 @@
 ---
 layout: member
 category: student
-title: Researcher Name
+title: Eric Chen
 image: researcher.png
-role: PhD Student
-permalink: 'team/researcher-name'
+role: PhD Candidate
+permalink: 'team/eric-chen'
 social:
-    twitter: https://twitter.com/
-    linkedin: https://www.linkedin.com/
-    google-scholar: https://scholar.google.fr/
-    github: https://github.com/
-    website:
-    orcid: https://orcid.org/
-    research-gate: https://www.researchgate.net/
+    website: https://pinyuericchen.com
 education:
- - Education
+ - PhD Candidate in Second Language Studies, Indiana University
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Eric is a PhD Candidate in Second Language Studies from Tainan, Taiwan. His research interests include second language acquisition, psycholinguistics, and L2 phonetics and phonology. He received his M.A. in Linguistics from National Chengchi University (Taiwan). Before that, he completed his B.A. in Foreign Languages and Literature and a High School Teacher Certification from National Chi Nan University (Taiwan). He has taught English in Taiwan for eight years and also was an English Assessment Researcher at the Language Training & Testing Center in Taipei, Taiwan
