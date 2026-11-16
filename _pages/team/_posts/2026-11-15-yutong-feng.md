@@ -4,7 +4,7 @@ category: student
 title: Yutong Feng
 image: Yutong.jpg
 role: PhD Student
-permalink: 'team/researcher-name'
+permalink: 'team/yutong-feng'
 social:
     linkedin: https://www.linkedin.com/in/fengyutong
 education:
