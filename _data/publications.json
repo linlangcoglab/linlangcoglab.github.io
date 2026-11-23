@@ -1,40 +1,65 @@
 [
 	{
-		"id": "http://zotero.org/groups/2386072/items/NU9LTX7C",
+		"id": "https://doi.org/10.1075/lali.00149.lyu",
 		"type": "article-journal",
-		"title": "Segmentation of Nuclei in Histopathology Images by Deep Regression of the Distance Map",
-		"container-title": "IEEE Transactions on Medical Imaging",
-		"page": "448-459",
-		"volume": "38",
-		"issue": "2",
+		"title": "Structural position affects topic transition: An eye-tracking study",
+		"container-title": "Language and Linguistics",
+		"page": "56-79",
+		"volume": "25",
+		"issue": "1",
 		"source": "IEEE Xplore",
-		"abstract": "The advent of digital pathology provides us with the challenging opportunity to automatically analyze whole slides of diseased tissue in order to derive quantitative profiles that can be used for diagnosis and prognosis tasks. In particular, for the development of interpretable models, the detection and segmentation of cell nuclei is of the utmost importance. In this paper, we describe a new method to automatically segment nuclei from Haematoxylin and Eosin (H&E) stained histopathology data with fully convolutional networks. In particular, we address the problem of segmenting touching nuclei by formulating the segmentation problem as a regression task of the distance map. We demonstrate superior performance of this approach as compared to other approaches using Convolutional Neural Networks.",
-		"DOI": "10.1109/TMI.2018.2865709",
+		"abstract": "In an eye-tracking study, we used Chinese double-subject construction [NPa NPb PREDICATE] (e.g., [nage jiezhi]NPa [sheji]NPb [hen tebie]PREDICATE ‘that ring design very special’) in a concessive construction like suiran…dan… ‘although…but…’ to investigate how the syntactic position of the topic NP (i.e., that ring) affects the comprehension of topic transition in the subsequent clause. We contrasted topics located at a higher pre-connective topic position (e.g., that ring although) and those located at a post-connective subject position (e.g., although that ring). Topic transition was manipulated as either using a subtopic (e.g., workmanship of that ring) or a new topic (e.g., the wedding dress) in the second clause of concession. We found a main effect of topic transition in a batch of eye-movement measures showing that subtopic transition was preferred over new-topic transition. More importantly, we found interactions on total reading time and total fixations at the topic-suiran region and on total fixations at the post-critical region, with post hoc tests revealing a larger cost of topic transition in the high-topic condition than in the low-topic condition. The results suggest that when a topic NP is located at a higher topic position (i.e., above the connective), it binds the topics of both clauses and induces greater cost when the topics do not form a consistent chain. When the topic NP is located at a local (i.e., post-connective) position, the processing of topic shift or resolution of topic conflict in the second clause is less costly because the second topic is not syntactically bound by the higher topic. Together, the results support a prominent status of the before-connective position in Chinese discourse. Furthermore, they indicate that syntactically induced topicality constrains the processing of topic transition in the subsequent discourse.",
+		"DOI": "https://doi.org/10.1075/lali.00149.lyu",
 		"author": [
 			{
-				"family": "Naylor",
-				"given": "P."
+				"family": "Lyu",
+				"given": "S."
 			},
 			{
-				"family": "Laé",
-				"given": "M."
+				"family": "Tu",
+				"given": "J.-Y."
 			},
 			{
-				"family": "Reyal",
-				"given": "F."
-			},
-			{
-				"family": "Walter",
-				"given": "T."
+				"family": "Lin",
+				"given": "C.-J. C."
 			}
 		],
 		"issued": {
 			"date-parts": [
 				[
-					"2019",
+					"2024",
 					2
 				]
 			]
 		}
-	}
+	},
+  {
+    "id": "https://doi.org/DOI-HERE",
+    "type": "article-journal",
+    "title": "Publication title",
+    "container-title": "Journal or conference name",
+    "page": "123-135",
+    "volume": "12",
+    "issue": "3",
+    "abstract": "Abstract text.",
+    "DOI": "10.xxxx/xxxxx",
+    "author": [
+      {
+        "family": "Last name",
+        "given": "First name or initials"
+      },
+      {
+        "family": "Second author's last name",
+        "given": "First name or initials"
+      }
+    ],
+    "issued": {
+      "date-parts": [
+        [
+          "2026",
+          3
+        ]
+      ]
+    }
+  }
 ]
